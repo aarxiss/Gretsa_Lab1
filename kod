@@ -25,5 +25,5 @@ int main() {
 
     cout << "Найбільше число:" << max_num;
 
-    return 0;
+
 }
